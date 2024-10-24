@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="my_text">Всё наоборот</string>
+    <string name="hint_editText">поле ввода текста</string>
+    <string name="button_text">Преобразовать</string>
+    <string name="result_text">Результат:</string>
+    <string name="count_text">Количество символов</string>
+</resources>
